@@ -43,7 +43,7 @@ main .greeting-section {
     input[type="radio"]:checked
     + label {
     color: #ffffff;
-    background: #a259ff;
+    background: #2c2a2e;
     border-radius: 8px;
   }
   main .greeting-section .left-side .weather-group label {
@@ -202,3 +202,4 @@ main .greeting-section {
   .bd-mode-toggle .dropdown-menu .active .bi {
     display: block !important;
   }
+  
